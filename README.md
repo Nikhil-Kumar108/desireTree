@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @desireTree
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, Nikhil Kumar
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me  nikhilkeshav007@gmail.com
 
 <!---
